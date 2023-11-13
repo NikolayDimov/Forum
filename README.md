@@ -1,7 +1,6 @@
 # Forum
 Simple Forum HTML page
 
-Installation
-
-    - clone the repository with git clone
-    - use Live server or oprn index.html in browser
+#### Instalation
+* clone the repository with git clone
+* use Live server or open index.html in browser
